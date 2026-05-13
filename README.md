@@ -2,7 +2,7 @@
 
 # Erick Gutierrez
 
-### QA Analyst → Jr Developer
+### QA Analyst - Jr Developer
 
 *Bucaramanga, Colombia 🇨🇴*
 
