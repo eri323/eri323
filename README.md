@@ -2,19 +2,19 @@
 
 # Erick Gutierrez
 
-### QA Analyst - Jr Developer
+### QA Analyst → Full Stack Developer
 
 *Bucaramanga, Colombia 🇨🇴*
 
----
-
 </div>
+
+---
 
 ## Sobre mí
 
-QA Analyst especializado en **sistemas de pagos bancarios** dentro del ecosistema Grupo Aval.  
-Trabajo diariamente con Postilion, ISO 8583, certificaciones BRE-B y flujos de pagos en tiempo real (SPI, P2P/P2M).  
-Estudiante de **Ingeniería de Sistemas** en UNISANGIL, construyendo proyectos propios para acelerar mi transición al desarrollo.
+QA Analyst especializado en **sistemas de pagos bancarios** dentro del ecosistema Grupo Aval.
+Trabajo diariamente con Postilion, ISO 8583, certificaciones BRE-B y flujos de pagos en tiempo real (SPI, P2P/P2M).
+Estudiante de **Ingeniería de Sistemas** en UNISANGIL, construyendo proyectos propios con arquitecturas de producción para consolidar mi transición al desarrollo.
 
 ---
 
@@ -27,15 +27,22 @@ Estudiante de **Ingeniería de Sistemas** en UNISANGIL, construyendo proyectos p
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 **Desarrollo**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Herramientas y despliegue**
 
@@ -43,16 +50,20 @@ Estudiante de **Ingeniería de Sistemas** en UNISANGIL, construyendo proyectos p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
 ---
 
 ## Proyectos
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🏥 **ChatBotEnfermería2** | Chatbot de reserva de laboratorios para UNISANGIL | React, Node.js, Supabase, JWT |
-| 🚗 **RideShare App** | Sistema de domicilios y viajes en tiempo real | React, Supabase, Tailwind, Maps |
+| Proyecto | Descripción | Stack | Estado |
+|---|---|---|---|
+| 🧪 **FlowCheck** | Plataforma de testing automatizado: el usuario describe un flujo en lenguaje natural, la IA lo convierte en casos de prueba y Playwright los ejecuta en Chromium real con reporte paso a paso en vivo | Next.js 16, TypeScript, Gemini AI, Playwright, Supabase Realtime, Express, Render | 🔄 En progreso |
+| 🏥 **ChatBotEnfermería** | Sistema web de reservas de laboratorios para la Facultad de Enfermería de UNISANGIL. Chatbot conversacional, calendario en tiempo real, roles y autenticación JWT | React, Node.js, Express, Supabase, PostgreSQL, JWT, Tailwind CSS | ✅ Completo |
+| 🚗 **MotoRed** | SaaS multi-tenant para gestión de domicilios. Las empresas contratan el servicio y gestionan sus propios domiciliarios, planillas y servicios en tiempo real | Next.js 14, TypeScript, Supabase, Zustand, Radix UI, Mapbox, Zod | 🔄 En progreso |
 
 ---
 
@@ -72,9 +83,9 @@ Estudiante de **Ingeniería de Sistemas** en UNISANGIL, construyendo proyectos p
 
 ## Actualmente
 
+- 🧪 Construyendo **FlowCheck**: plataforma de testing con IA y Playwright que combina mi background QA con desarrollo fullstack
 - 🔬 Profundizando en **pruebas de rendimiento** (JMeter, carga, estrés, soak)
 - 🎓 Estudiando Ingeniería de Sistemas en UNISANGIL
-- 🌱 Construyendo mi portafolio para transicionar hacia un rol de **desarrollador junior**
 - 🇬🇧 Mejorando mi inglés — nivel B1, Connect For Institute
 
 ---
