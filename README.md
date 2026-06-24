@@ -31,7 +31,7 @@ Estudiante de Ingeniería de Sistemas en UNISANGIL.
 ## Stack
 
 **QA & Testing**
-Postilion (Realtime/Office) · ISO 8583 · Base24 · Octane · Jira · Confluence
+Postilion (Realtime/Office) · ISO 8583 · Base24 · Octane · Jira · Confluence ·
 Postman · SoapUI · JMeter · Oracle/SQL · Playwright · Vitest
 
 **Automatización** *(formación interna SQA)*
