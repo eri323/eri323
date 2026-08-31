@@ -102,6 +102,6 @@ El producto recibe una URL arbitraria del usuario y la visita con un navegador r
 
 <div align="center">
 
-![Estadísticas de eri323](https://github-readme-stats.vercel.app/api?username=eri323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0E7C82&icon_color=0E7C82&text_color=C9D1D9&rank_icon=github&locale=es)
+![Estadísticas de eri323](https://github-readme-stats-swart-nine-37.vercel.app/api?username=eri323&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0E7C82&icon_color=0E7C82&text_color=C9D1D9&rank_icon=github&locale=es)
 
 </div>
